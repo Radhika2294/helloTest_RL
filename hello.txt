@@ -1,3 +1,4 @@
 
 
 we are learning experiment 2
+i have studies how to add files for the local machine to the github
